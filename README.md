@@ -1,4 +1,4 @@
-# Angular-Tutorial
+# Angular Tutorial
 
 Completed in preparation for summer internship with Mischief.app 
 
